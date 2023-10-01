@@ -1,0 +1,13 @@
+Data Science powinien znać następujące 10 komend języka Bash:
+1.  ls - wyświetla zawartość bieżącego katalogu
+2. pwd - wyświetla pełną ścieżkę do bieżącego katalogu
+3. df (ang. disk free) służy do wyświetlenia informacji o wolnym miejscu na dysku.
+4. du (ang. disk usage) służy do wyświetlenia informacji o zajętości dysku.
+5. touch - służy do tworzenia plików w systemach UNIX
+6. rm - usuwa plik lub katalog
+7. cp - kopiuje plik lub katalog
+8. mv - przenosi lub zmienia nazwę pliku lub katalogu
+13. cd - zmienia bieżący katalog
+14. mkdir - tworzy nowy katalog
+15. grep - wyszukuje wzorzec w plikach
+16. man - wyświetla podręcznik do komendy Bash.
